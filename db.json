@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Silent Forest",
+      "author": "Emma Clarke",
+      "description": "A mystery story about a hidden village deep inside an ancient forest.",
+      "category": "Story",
+      "available_quantity": 12,
+      "image_url": "https://example.com/images/silent-forest.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mastering JavaScript",
+      "author": "Daniel Brooks",
+      "description": "A complete guide to modern JavaScript programming for beginners and professionals.",
+      "category": "Tech",
+      "available_quantity": 8,
+      "image_url": "https://example.com/images/mastering-javascript.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Journey to Mars",
+      "author": "Sophia Miller",
+      "description": "An exciting exploration of future human missions to Mars.",
+      "category": "Science",
+      "available_quantity": 15,
+      "image_url": "https://example.com/images/journey-to-mars.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Lost Kingdom",
+      "author": "Henry Walker",
+      "description": "A fantasy adventure filled with magic, war, and ancient secrets.",
+      "category": "Story",
+      "available_quantity": 6,
+      "image_url": "https://example.com/images/lost-kingdom.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Python for AI",
+      "author": "Olivia Turner",
+      "description": "Learn Python programming and artificial intelligence concepts step by step.",
+      "category": "Tech",
+      "available_quantity": 10,
+      "image_url": "https://example.com/images/python-ai.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Quantum Wonders",
+      "author": "Liam Johnson",
+      "description": "An introduction to quantum physics and its real-world applications.",
+      "category": "Science",
+      "available_quantity": 9,
+      "image_url": "https://example.com/images/quantum-wonders.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Echoes of Time",
+      "author": "Ava Scott",
+      "description": "A historical story that connects the past with the present through a magical clock.",
+      "category": "Story",
+      "available_quantity": 7,
+      "image_url": "https://example.com/images/echoes-time.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Computing Essentials",
+      "author": "Michael Reed",
+      "description": "Understand cloud technologies, deployment models, and modern infrastructure.",
+      "category": "Tech",
+      "available_quantity": 11,
+      "image_url": "https://example.com/images/cloud-computing.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Secrets of the Ocean",
+      "author": "Isabella Green",
+      "description": "Discover marine life and unexplored mysteries beneath the ocean.",
+      "category": "Science",
+      "available_quantity": 14,
+      "image_url": "https://example.com/images/ocean-secrets.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Midnight Train",
+      "author": "James Carter",
+      "description": "A thrilling story of strangers whose lives change during one train journey.",
+      "category": "Story",
+      "available_quantity": 5,
+      "image_url": "https://example.com/images/midnight-train.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Cybersecurity Basics",
+      "author": "Natalie Evans",
+      "description": "A beginner-friendly introduction to online security and ethical hacking.",
+      "category": "Tech",
+      "available_quantity": 13,
+      "image_url": "https://example.com/images/cybersecurity-basics.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Human Genome",
+      "author": "Ethan White",
+      "description": "An overview of genetics, DNA research, and modern biotechnology.",
+      "category": "Science",
+      "available_quantity": 4,
+      "image_url": "https://example.com/images/human-genome.jpg"
+    }
+  ]
+}
